@@ -1,6 +1,6 @@
-# smart_home
+# Smart Home UI in Flutter
 
-A new Flutter project.
+A basic and minimalist UI in Flutter.
 
 ## Getting Started
 
